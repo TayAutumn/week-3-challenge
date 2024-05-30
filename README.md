@@ -32,4 +32,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 This project is licensed under the [MIT License](LICENSE).
 
 ## Deployment 
-Here is a link to the deployed website using git:
+Here is a link to the deployed website using git: https://tayautumn.github.io/week-3-challenge/
+
+![Screenshot](/assets/Screenshot%20(339).png)
+
